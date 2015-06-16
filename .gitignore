@@ -3,6 +3,11 @@
 /**.class
 build/**
 
+# Eclipse
+.classpath
+.project
+.settings/
+
 **/*.iml
 **/*.iws
 **/*.ipr
